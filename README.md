@@ -1,12 +1,12 @@
-## Simple Html & Css Learning App Design
+## Simple Html & Css App Design
 
 <p align="center">
-<img src="/imgs/SimpleLearningApp.png">
+<img src="/imgs/HtmlCssAppDesign.png">
 </p>
 
 ## Demo🔗📡
 
-[App Demo](https://youtu.be/xLRtMFNXwA8?si=PfZm8Xo3qmo_tcOg)
+[App Demo](https://youtu.be/69vksgEeuhg?si=45PJLpI1IuZUAce5)
 
 ## 🚀Getting Started
 
@@ -25,7 +25,7 @@ Example:
    copy and paste this link
 
    ```bash
-   git clone https://github.com/apdoolhamza/html-css-learning-app-design.git
+   git clone https://github.com/apdoolhamza/html-css-app-design.git
    ```
 
 4. Open `index.html` in your web browser.
